@@ -7,6 +7,7 @@
 <p>Particularmente gostei muito desse projeto, consegui itnernalizar os conceitos no framework react, responsividade, consumo de API, utilização de bibliotecas como a react-scroll, utilizei utlização de estados com o useState(), props consumo da API web3forms para o envio do formulário do site...</p>
 <p>Gosto muito do REACT pela sua organização de componentes e páginas em pastas, melhorando a manutenção do código!</p>
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3>This is a project made with the REACT Framework.</h3>
 
