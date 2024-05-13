@@ -8,6 +8,12 @@
 <p>Gosto muito do REACT pela sua organização de componentes e páginas em pastas, melhorando a manutenção do código!</p>
 
 
+<h3>This is a project made with the REACT Framework.</h3>
+
+<p>Particularly, I really liked this project, I was able to internalize the concepts in the react framework, responsiveness, API consumption, use of libraries such as react-scroll, I used the use of states with useState(), props consumption of the web3forms API for sending from the website form...</p>
+<p>I really like REACT because of its organization of components and pages into folders, improving code maintenance!</p>
+
+
 ![image](https://github.com/DevGustavoGantois/WebSite_School_REACT/assets/123424700/3346e0cf-9590-431b-85fb-710c12c0758a)
 
 
