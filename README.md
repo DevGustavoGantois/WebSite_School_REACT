@@ -4,9 +4,9 @@
 
 <h3>Este é um projeto feito com o Framework REACT.</h3>
 
-<p>Particularmente gostei muito desse projeto, consegui itnernalizar os conceitos no framework react, responsividade, consumo de API, utilização de bibliotecas como a react-scroll, utilizei utlização de estados com o useState(), props entre outros assuntos muito importantes</p>
+<p>Particularmente gostei muito desse projeto, consegui itnernalizar os conceitos no framework react, responsividade, consumo de API, utilização de bibliotecas como a react-scroll, utilizei utlização de estados com o useState(), props consumo da API web3forms para o envio do formulário do site...</p>
 <p>Gosto muito do REACT pela sua organização de componentes e páginas em pastas, melhorando a manutenção do código!</p>
-------------------------------------------------------------------------------------------------------------------------
+
 
 ![image](https://github.com/DevGustavoGantois/WebSite_School_REACT/assets/123424700/3346e0cf-9590-431b-85fb-710c12c0758a)
 
